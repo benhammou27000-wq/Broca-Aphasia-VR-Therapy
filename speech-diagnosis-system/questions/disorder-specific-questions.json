@@ -1,0 +1,308 @@
+{
+  "language_delay_questions": [
+    {
+      "id": "ld_001",
+      "age_group": "2-3",
+      "type": "parent",
+      "question_dz": "الطفل ينطق الكلمات بوضوح ولا يقول كلمات غير مفهومة؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "نعم، واضح وسهل",
+          "score": 3
+        },
+        {
+          "text_dz": "نعم، لكن شوية عسير الفهم",
+          "score": 1
+        },
+        {
+          "text_dz": "لا، كلام غير واضح",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "ld_002",
+      "age_group": "2-4",
+      "type": "parent",
+      "question_dz": "الطفل قاع يربط بين الكلمات أو يقول جملة بسيطة؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "نعم، يقول جمل صحيحة",
+          "score": 3
+        },
+        {
+          "text_dz": "نعم، لكن كلام بسيط",
+          "score": 2
+        },
+        {
+          "text_dz": "لا، فقط كلمات منفردة",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "ld_003",
+      "age_group": "3-5",
+      "type": "parent",
+      "question_dz": "الطفل يسأل أسئلة عادي مثل 'شنو هذا؟' أو 'ليش؟'",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "نعم، يسأل كويس",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً يسأل",
+          "score": 1
+        },
+        {
+          "text_dz": "لا، ما يسأل والو",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "articulation_questions": [
+    {
+      "id": "art_001",
+      "age_group": "3-5",
+      "type": "child",
+      "question_dz": "قول لي: 'سيارة'",
+      "weight": 1,
+      "answers": [
+        {
+          "text_dz": "ينطقها صحيح",
+          "score": 3
+        },
+        {
+          "text_dz": "ينطقها غير صحيح شوية",
+          "score": 1
+        },
+        {
+          "text_dz": "ما يقدر ينطقها",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "art_002",
+      "age_group": "3-5",
+      "type": "child",
+      "question_dz": "قول لي: 'زهرة'",
+      "weight": 1,
+      "answers": [
+        {
+          "text_dz": "ينطقها صحيح",
+          "score": 3
+        },
+        {
+          "text_dz": "ينطقها غير صحيح",
+          "score": 1
+        },
+        {
+          "text_dz": "ما يقدر",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "art_003",
+      "age_group": "4-7",
+      "type": "parent",
+      "question_dz": "هل الطفل نطقو صعب على الناس الغرباء يفهموه؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "لا، الجميع يفهمو",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً يعسر الفهم",
+          "score": 1
+        },
+        {
+          "text_dz": "نعم، صعب يفهموه",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "stuttering_questions": [
+    {
+      "id": "stut_001",
+      "age_group": "3-7",
+      "type": "parent",
+      "question_dz": "الطفل قاع يتلعثم أو يكرر الحروف والكلمات؟",
+      "weight": 3,
+      "answers": [
+        {
+          "text_dz": "لا، كلام سلس",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً، لكن نادر",
+          "score": 1
+        },
+        {
+          "text_dz": "نعم، متكرر",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "stut_002",
+      "age_group": "3-7",
+      "type": "parent",
+      "question_dz": "الطفل يخاف أو يتردد قبل ما يتكلم أو يتجنب الكلام؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "لا، كل شي عادي",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً يتردد",
+          "score": 1
+        },
+        {
+          "text_dz": "نعم، يتجنب الكلام",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "voice_disorder_questions": [
+    {
+      "id": "voice_001",
+      "age_group": "2-7",
+      "type": "parent",
+      "question_dz": "صوت الطفل حاد أو خشن أو غير عادي؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "لا، صوت عادي",
+          "score": 3
+        },
+        {
+          "text_dz": "شوية غير عادي",
+          "score": 1
+        },
+        {
+          "text_dz": "نعم، خشن أو ضعيف جداً",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "voice_002",
+      "age_group": "2-7",
+      "type": "parent",
+      "question_dz": "الطفل قاع يسعل كثير أو عنده بحة في الصوت؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "لا، عادي",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً",
+          "score": 1
+        },
+        {
+          "text_dz": "نعم، دايم",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "auditory_processing_questions": [
+    {
+      "id": "aud_001",
+      "age_group": "3-7",
+      "type": "parent",
+      "question_dz": "الطفل يرد على سؤال واحد لوكا تقول ليه مرة واحدة فقط؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "نعم، يسمع أول مرة",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً، لازم تكرر",
+          "score": 1
+        },
+        {
+          "text_dz": "لا، دايم تكرر",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "aud_002",
+      "age_group": "3-7",
+      "type": "parent",
+      "question_dz": "الطفل قاع يشتت انتباهو بسهولة من الأصوات؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "لا، منتبو",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً يشتت",
+          "score": 1
+        },
+        {
+          "text_dz": "نعم، كثير يشتت",
+          "score": 0
+        }
+      ]
+    }
+  ],
+  "language_development_questions": [
+    {
+      "id": "ld_dev_001",
+      "age_group": "2-4",
+      "type": "parent",
+      "question_dz": "الطفل يشير بإصبعو للأشياء أو الناس عندما تسأله؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "نعم، يشير كويس",
+          "score": 3
+        },
+        {
+          "text_dz": "أحياناً يشير",
+          "score": 1
+        },
+        {
+          "text_dz": "لا، ما يشير والو",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "ld_dev_002",
+      "age_group": "3-5",
+      "type": "parent",
+      "question_dz": "الطفل يفهم الكلمات المختلفة مثل 'البيت'، 'الأكل'، 'الحيوانات'؟",
+      "weight": 2,
+      "answers": [
+        {
+          "text_dz": "نعم، يفهم كويس",
+          "score": 3
+        },
+        {
+          "text_dz": "يفهم شوية كلمات",
+          "score": 1
+        },
+        {
+          "text_dz": "لا، ما يفهم",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
